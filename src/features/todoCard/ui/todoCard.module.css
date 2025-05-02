@@ -1,0 +1,16 @@
+.content {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+  width: 100%;
+  align-items: center;
+}
+
+.cardFooter {
+  position: relative;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  width: 100%;
+}
